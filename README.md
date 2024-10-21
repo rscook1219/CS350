@@ -1,4 +1,4 @@
-# CS350
+# CS350 - Secure Coding
 
 - **Summarize the project and what problem it was solving.**
   - 
