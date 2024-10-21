@@ -1,6 +1,6 @@
 # CS350 - Secure Coding
 
-- **Summarize the project and what problem it was solving.**
+- *Summarize the project and what problem it was solving.*
   - 
 
 - **What did you do particularly well?**
