@@ -1,13 +1,19 @@
 # CS350
 
-- Summarize the project and what problem it was solving.
-*  This pro
-- What did you do particularly well?
+- **Summarize the project and what problem it was solving.**
+  - 
 
-- Where could you improve?
+- **What did you do particularly well?**
+  - 
 
-- What tools and/or resources are you adding to your support network?
+- **Where could you improve?**
+  - 
 
-- What skills from this project will be particularly transferable to other projects and/or course work?
+- **What tools and/or resources are you adding to your support network?**
+  - 
 
-- How did you make this project maintainable, readable, and adaptable?
+- **What skills from this project will be particularly transferable to other projects and/or course work?**
+  - 
+
+- **How did you make this project maintainable, readable, and adaptable?**
+  - 
