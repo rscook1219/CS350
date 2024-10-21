@@ -1,8 +1,7 @@
 # CS350
 
 - Summarize the project and what problem it was solving.
--   This project
-
+-  This project
 - What did you do particularly well?
 
 - Where could you improve?
